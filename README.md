@@ -1,7 +1,13 @@
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/Pmair20/Pmair20/blob/main/giphy.gif"> 
 </p>
-Hiya sailor 👋, I'm Pritish Mair. Currently in my Second year of Bachelor of Technology in Computer Engineering. I'm a Software Developer who is passionate about building revolutionary tech and software, creating and developing on ideas that were never tried before. Robotics is my passion and hobby while building software technology is my top priority.
+
+<p>
+  <em>
+    Hiya sailor 👋, I'm <b>Pritish Mair</b>. Currently in my Second year of <b>Bachelor of Technology</b> in <b>Computer Engineering</b>. I'm a <b>Software Developer</b> who is enthusiastic about building <b>revolutionary tech and software</b>, creating and developing on <b>ideas that were never tried before</b>. Robotics is my passion and hobby while building software technology is my top priority.
+  </em>
+</p>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 ## 🛠 &nbsp; Hands On Experience with:-
 <code><img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
