@@ -1,12 +1,3 @@
-<div class="row">
-  <div class="row">
-    <img src="https://github.com/Pmair20/Pmair20/blob/main/git.gif" height="150" />
-  </div>
-  <div class="row">
-    <img src="https://github.com/Pmair20/Pmair20/blob/main/giphy.gif" />
-  </div>
-</div>
-<img src="https://github.com/Pmair20/Pmair20/blob/main/git.gif" height="150" />
 <img src="https://github.com/Pmair20/Pmair20/blob/main/giphy.gif" />
 ### Hello there, I am Pritish 👋
 Hiya sailor 👋, I'm Pritish Mair. Currently in my Second year of Bachelor of Technology in Computer Engineering. I'm a Software Developer who is passionate about building revolutionary tech and software, creating and developing on ideas that were never tried before. Robotics is my passion and hobby while building software technology is my top priority.
