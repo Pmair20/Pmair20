@@ -5,6 +5,7 @@ Hiya sailor 👋, I'm Pritish Mair. Currently in my Second year of Bachelor of T
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pmair20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
+run workflow
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
