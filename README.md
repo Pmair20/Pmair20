@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/Pmair20/Pmair20/blob/main/giphy.gif"> 
+    <img width="100%" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"> 
 </p>
 
 <p>
