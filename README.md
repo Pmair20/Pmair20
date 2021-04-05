@@ -1,3 +1,4 @@
+![Hey there, I'm Pritish Mair. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 ### Hello there, I am Pritish 👋
 Hiya sailor 👋, I'm Pritish Mair. Currently in my Second year of Bachelor of Technology in Computer Engineering. I'm a Software Developer who is passionate about building revolutionary tech and software, creating and developing on ideas that were never tried before. Robotics is my passion and hobby while building software technology is my top priority.
 
