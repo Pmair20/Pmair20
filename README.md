@@ -8,6 +8,15 @@
   </em>
 </p>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+  
+## 👨🏻‍💻 &nbsp;My Details
+
+- 🔭 I’m currently developing Python Applications and working on robotic Drone.
+- 🌱 I’m currently learning advanced robotics with ROS.
+- 👯 I’m looking to work with professionals and technical teams.
+- 🥅 Life Goal: Build revolutionary tech.
+- ⚡ Secret: I love autonomous technology and am contributing in it.
+- 📧 Mail me at pritishmair007@gmail.com
 
 ## 🛠 &nbsp; Hands On Experience with:-
 <code><img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
