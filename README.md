@@ -1,8 +1,8 @@
 <div class="row">
-  <div class="column">
+  <div class="row">
     <img src="https://github.com/Pmair20/Pmair20/blob/main/git.gif" height="150" />
   </div>
-  <div class="column">
+  <div class="row">
     <img src="https://github.com/Pmair20/Pmair20/blob/main/giphy.gif" />
   </div>
 </div>
