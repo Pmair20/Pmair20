@@ -1,3 +1,11 @@
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/Pmair20/Pmair20/blob/main/git.gif" height="150" />
+  </div>
+  <div class="column">
+    <img src="https://github.com/Pmair20/Pmair20/blob/main/giphy.gif" />
+  </div>
+</div>
 <img src="https://github.com/Pmair20/Pmair20/blob/main/git.gif" height="150" />
 <img src="https://github.com/Pmair20/Pmair20/blob/main/giphy.gif" />
 ### Hello there, I am Pritish 👋
