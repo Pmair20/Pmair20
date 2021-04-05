@@ -16,7 +16,19 @@ Hiya sailor 👋, I'm Pritish Mair. Currently in my Second year of Bachelor of T
 <code><img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pmair20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<details open="">
+  <summary><strong>⭐️ My Github Stats</strong></summary>
+  <br>
+  
+  <p align="center">
+    <a href="https://github.com/Pmair20">
+      <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Pmair20&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby" />
+      <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmair20y&theme=great-gatsby&layout=compact&hide=Jupyter%20Notebook" />
+    </a>
+  </p>
+  
+</details>
+<br />
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
