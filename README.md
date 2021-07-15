@@ -11,8 +11,8 @@
   
 ## 👨🏻‍💻 &nbsp;My Details
 
-- 🔭 I’m currently developing Python Applications and working on robotic Drone.
-- 🌱 I’m currently learning advanced robotics with ROS.
+- 🔭 I’m currently developing Python Applications and software dev.
+- 🌱 I’m currently learning advanced robotics with ROS along with Machine Learning and Artificial Intelligence.
 - 👯 I’m looking to work with professionals and technical teams.
 - 🥅 Life Goal: Build revolutionary tech.
 - ⚡ Secret: I love autonomous technology and am contributing in it.
