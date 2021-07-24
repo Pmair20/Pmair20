@@ -16,6 +16,7 @@
 - 👯 I’m looking to work with professionals and technical teams.
 - 🥅 Life Goal: Build revolutionary tech.
 - ⚡ Secret: I love autonomous technology and am contributing in it.
+- 😄 Alias: _robothoner_
 - 📧 Mail me at pritishmair007@gmail.com
 
 ## 🛠 &nbsp; Hands On Experience with:-
