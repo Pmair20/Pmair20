@@ -38,15 +38,15 @@
   <img align="left" alt="Sharvin's Hackerrank" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/sharvin-dedhia" target="_blank">
+<a href="https://www.linkedin.com/in/pritish-mair/" target="_blank">
   <img align="left" alt="Pritish's LinkdeIn" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
 
-<a href="https://www.instagram.com/sharvin_dedhia/" target="_blank">
+<a href="https://www.instagram.com/_robothoner_/" target="_blank">
   <img align="left" alt="Pritish's Instagram" width="50px" src="https://cdn2.iconfinder.com/data/icons/instagram-new/512/instagram-logo-color-512.png" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100008533545365" target="_blank">
+<a href="https://www.facebook.com/pritish.mair.7" target="_blank">
   <img align="left" alt="Pritish's Facebook" width="50px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
