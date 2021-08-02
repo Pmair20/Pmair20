@@ -21,7 +21,7 @@
 
 <h1>
   Connect With Me <a target="_blank">
-  <img src="https://github.com/sharvin18/sharvin18/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
+  <img src="https://github.com/Pmair20/Pmair20/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
   </a>
 </h1>
 
