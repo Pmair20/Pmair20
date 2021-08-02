@@ -25,19 +25,6 @@
   </a>
 </h1>
 
-
-<a href="https://www.codechef.com/users/sharvin18" target="_blank">
-  <img align="left" alt="Sharvin's Codechef" width="50" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
-</a>
-
-<a href="https://codeforces.com/profile/sharvin18">
-  <img align="left" alt="Sharvin's Codeforces" width="50" src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" />
-</a>
-
-<a href="https://www.hackerrank.com/MonsterWins">
-  <img align="left" alt="Sharvin's Hackerrank" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
-</a>
-
 <a href="https://www.linkedin.com/in/pritish-mair/" target="_blank">
   <img align="left" alt="Pritish's LinkdeIn" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
