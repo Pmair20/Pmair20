@@ -62,7 +62,26 @@
 <details open="">
   <summary><strong>⭐️ My Github Statistics</strong></summary>
   <br>
-  
+  <div align="center" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+       <img
+        align="center"
+        width="65%"
+        src="https://github-readme-stats.vercel.app/api?username=Pmair20&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
+      />
+    </a>
+  </div>
+  <br />
+  <div align="center" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        width="35%"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmair20&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
+      />
+    </a>
+  </div>
+    
   <p align="center">
     <a href="https://github.com/Pmair20">
       <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Pmair20&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby" />
