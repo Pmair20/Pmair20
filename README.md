@@ -81,14 +81,6 @@
       />
     </a>
   </div>
-    
-  <p align="center">
-    <a href="https://github.com/Pmair20">
-      <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Pmair20&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby" />
-      <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmair20&theme=great-gatsby&layout=compact&hide=Jupyter%20Notebook" />
-    </a>
-  </p>
-  
 </details>
 <br />
 
