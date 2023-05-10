@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Hiya sailor 👋, I'm <b>Pritish Mair</b>. Currently in my Second year of <b>Bachelor of Technology</b> in <b>Computer Engineering</b>. I'm a <b>Software Tech Developer</b> who is enthusiastic about building <b>revolutionary tech and software</b>, creating and developing on <b>ideas that were never tried before</b>. Robotics is my hobby and building software technology is my passion.
+    Hiya sailor 👋, I'm <b>Pritish Mair</b>. Currently in my Final year of <b>Bachelor of Technology</b> in <b>Computer Engineering</b>. I'm a <b>Software Tech Developer</b> who is enthusiastic about building <b>revolutionary tech and software</b>, creating and developing on <b>ideas that were never tried before</b>. Robotics is my hobby and building software technology is my passion.
   </em>
 </p>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
