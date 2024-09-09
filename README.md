@@ -61,17 +61,6 @@
 
 <details open="">
   <summary><strong>⭐️ My Github Statistics</strong></summary>
-  <br>
-  <div align="center" title="Go to Source">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img
-        align="center"
-        width="65%"
-        src="https://github-readme-stats.vercel.app/api?username=Pmair20&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
-      />
-    </a>
-  </div>
-  <br />
   <div align="center" title="Go to Source">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
